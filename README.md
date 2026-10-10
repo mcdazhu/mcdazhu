@@ -1,4 +1,5 @@
-## Hi there 👋  la la la la la la la la
+## Hi there 👋 
+I'm new in github, teach me!
 
 <!--
 **mcdazhu/mcdazhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
